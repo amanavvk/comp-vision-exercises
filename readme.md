@@ -3,7 +3,7 @@
 ### Chapters
 
 **Basics of image processing**
-* Reading images, webcams, videos
+* Reading images, webcams, videoss
 * Basic operations on images such as changing color scales, applying gaussian blurs, edge detection using canny edge detector, dilating and eroding images.
 * Resizing, cropping Images
 * Drawing shapes such as circles, rectangles, lines, and adding text on images
