@@ -1,0 +1,10 @@
+/home/bk/github/comp-vision-exercises/src/build/CMakeFiles/rebuild_cache.dir
+/home/bk/github/comp-vision-exercises/src/build/CMakeFiles/edit_cache.dir
+/home/bk/github/comp-vision-exercises/src/build/CMakeFiles/9DetectionTracking.dir
+/home/bk/github/comp-vision-exercises/src/build/CMakeFiles/8ObjectDetection.dir
+/home/bk/github/comp-vision-exercises/src/build/CMakeFiles/7FeatureTracking.dir
+/home/bk/github/comp-vision-exercises/src/build/CMakeFiles/5ColorDetection.dir
+/home/bk/github/comp-vision-exercises/src/build/CMakeFiles/4DrawShapes.dir
+/home/bk/github/comp-vision-exercises/src/build/CMakeFiles/3sizingCrop.dir
+/home/bk/github/comp-vision-exercises/src/build/CMakeFiles/2basicFunc.dir
+/home/bk/github/comp-vision-exercises/src/build/CMakeFiles/1readImg.dir
